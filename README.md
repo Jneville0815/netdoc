@@ -67,7 +67,6 @@ Bare hostnames default to `https://`.
 |---|---|---|
 | `--timeout` | `10` | Per-probe timeout, in seconds |
 | `--raw` | `false` | Also print the full JSON probe bundle |
-| `--no-llm` | `false` | Skip the LLM synthesis step (currently a no-op placeholder; synthesis isn't wired up yet) |
 
 ## Why
 
