@@ -7,8 +7,8 @@ import (
 	"sort"
 	"time"
 
-	"github.com/fatih/color"
 	"github.com/Jneville0815/netdoc/internal/probe"
+	"github.com/fatih/color"
 )
 
 // probeOrder controls the top-of-output summary strip.
